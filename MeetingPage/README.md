@@ -5,7 +5,7 @@ Est projeto foi criado em sala de aula para praticar HTML e CSS, gostei muito de
 ### Instruções sobre como ver o projeto
 
 ```shell 
-git clone
+git clone https://github.com/rodrigodeholanda/ProjetosDigitalCollege/blob/main/MeetingPage/src/index.html
 ```
 
 Então abra o arquivo index.html localizado na pasta raiz.
